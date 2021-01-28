@@ -3,10 +3,10 @@ package users_db
 import (
 	"database/sql"
 	"fmt"
-	"log"
 	"github.com/go-sql-driver/mysql"
+	"github.com/mnasruul/bookstore_utils-go/logger"
+	"log"
 	"os"
-	"github.com/federicoleon/bookstore_utils-go/logger"
 )
 
 const (

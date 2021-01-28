@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/federicoleon/bookstore_users-api/app"
+	"github.com/mnasruul/bookstore_users-api/app"
 )
 
 func main() {

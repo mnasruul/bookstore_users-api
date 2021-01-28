@@ -2,7 +2,7 @@ package users
 
 import (
 	"strings"
-	"github.com/federicoleon/bookstore_utils-go/rest_errors"
+	"github.com/mnasruul/bookstore_utils-go/rest_errors"
 )
 
 const (

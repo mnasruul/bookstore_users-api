@@ -2,12 +2,12 @@ package users
 
 import (
 	"github.com/gin-gonic/gin"
+	"github.com/mnasruul/bookstore_oauth-go/oauth"
+	"github.com/mnasruul/bookstore_users-api/domain/users"
+	"github.com/mnasruul/bookstore_users-api/services"
+	"github.com/mnasruul/bookstore_utils-go/rest_errors"
 	"net/http"
-	"github.com/federicoleon/bookstore_users-api/domain/users"
-	"github.com/federicoleon/bookstore_users-api/services"
 	"strconv"
-	"github.com/federicoleon/bookstore_oauth-go/oauth"
-	"github.com/federicoleon/bookstore_utils-go/rest_errors"
 )
 
 func getUserId(userIdParam string) (int64, rest_errors.RestErr) {

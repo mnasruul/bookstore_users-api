@@ -1,10 +1,10 @@
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
-github.com/federicoleon/bookstore_oauth-go v0.0.0-20191115215057-d6e9e471b4ef h1:Z/cpwuA75i03iQCHNt7zjKUEqD/GNiE/+r8JVCR3j5w=
-github.com/federicoleon/bookstore_oauth-go v0.0.0-20191115215057-d6e9e471b4ef/go.mod h1:J86wMJmcD7FlZ/37wYdE9XQMlKKOW+foyIMTE8ZKFd4=
-github.com/federicoleon/bookstore_utils-go v0.0.0-20191115214654-f8b94f132ebf h1:rmMXJsRtSt562GpDsyo4Vj8sziEqxdeE7ER2DiIS/5s=
-github.com/federicoleon/bookstore_utils-go v0.0.0-20191115214654-f8b94f132ebf/go.mod h1:2eaPBoOv7yMDnXExZ9Wp7V7uj/ZR2FL4ynqY2a+Rr9w=
+github.com/mnasruul/bookstore_oauth-go v0.0.0-20191115215057-d6e9e471b4ef h1:Z/cpwuA75i03iQCHNt7zjKUEqD/GNiE/+r8JVCR3j5w=
+github.com/mnasruul/bookstore_oauth-go v0.0.0-20191115215057-d6e9e471b4ef/go.mod h1:J86wMJmcD7FlZ/37wYdE9XQMlKKOW+foyIMTE8ZKFd4=
+github.com/mnasruul/bookstore_utils-go v0.0.0-20191115214654-f8b94f132ebf h1:rmMXJsRtSt562GpDsyo4Vj8sziEqxdeE7ER2DiIS/5s=
+github.com/mnasruul/bookstore_utils-go v0.0.0-20191115214654-f8b94f132ebf/go.mod h1:2eaPBoOv7yMDnXExZ9Wp7V7uj/ZR2FL4ynqY2a+Rr9w=
 github.com/gin-contrib/sse v0.1.0 h1:Y/yl/+YNO8GZSjAhjMsSuLt29uWRFHdHYUb5lYOV9qE=
 github.com/gin-contrib/sse v0.1.0/go.mod h1:RHrZQHXnP2xjPF+u1gW/2HnVO7nvIa9PG3Gm+fLHvGI=
 github.com/gin-gonic/gin v1.6.2 h1:88crIK23zO6TqlQBt+f9FrPJNKm9ZEr7qjp9vl/d5TM=
